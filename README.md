@@ -1,1 +1,1 @@
-# CafeReservation
+# CafeReservation (customer ver.)
